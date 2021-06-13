@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <meta charset="utf-8">
+    <title>Registrarse</title>
+    <link rel="icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="/css/register.css">
+    <script src="js/register.js" type="module"></script>
+    <script src="/js/libs/axios.min.js"></script>
+
+</head>
+
+<body>
+    <div id="page-header"></div>
+    <div class="container">
+        <div class="col-md-12 text-center">
+            <h1>Registrarse en Orange</h1>
+        </div>
+
+        <div id="errors"></div>
+
+        <form id="register-form">
+
+            <div class="form-group">
+                <label for="email-input">Correo electronico</label>
+                <input type="email" name="email" class="form-control" id="email-input" placeholder="Correo electronico"
+                    required>
+            </div>
+            <div class="form-group">
+                <label for="nombreCompleto-input">Nombre completo</label>
+                <input type="text" name="name" class="form-control" id="nombreCompleto-input"
+                    placeholder="Nombre completo" required>
+            </div>
+            <div class="form-group">
+                <label for="nombreUsuario-input">Nombre de usuario</label>
+                <input type="text" name="user" class="form-control" id="nombreUsuario-input"
+                    placeholder="Nombre de usuario" required>
+            </div>
+            <div class="form-group">
+                <label for="telephone-input">Teléfono: </label>
+                <input type="text" class="form-control" id="telephone-input" name="telephone"
+                    placeholder="Teléfono">
+            </div>
+            <div class="form-group">
+                <label for="contraseña-input">Contraseña</label>
+                <input type="password" name="password" id="contraseña-input" class="form-control"
+                    placeholder="Contraseña" required>
+            </div>
+            <div class="form-group">
+                <label for="contraseña2-input">Repetir contraseña</label>
+                <input type="password" name="password2" id="contraseña2-input" class="form-control"
+                    placeholder="Repetir contraseña" required>
+            </div>
+
+            <div class="form-group text-center">
+                <button id="registrarseBoton" type="submit" class="btn btn-warning">Registrarse</button>
+            </div>
+            <div class="form-group">
+                <p class="text-center">¿Tienes una cuenta? </p>
+                <p><a class="regis" href="login.html">Iniciar sesión</a></p>
+            </div>
+
+        </form>
+
+    </div>
+
+</body>
+
+
+
+
+<footer>
+
+    <div class="legal">
+        <p>
+        <h5><u>Legal</u></h5>
+        </p>
+        <p><a href="palabrasInad.html">Palabras Inapropiadas</a></p>
+    </div>
+
+</footer>
+
+</html>

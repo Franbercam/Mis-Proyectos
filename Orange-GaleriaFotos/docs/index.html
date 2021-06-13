@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="/js/utils/include.js"></script>
+    <meta name="viewport" content="width=device-width , initial-scale=1 ,shrink-to-fit=no">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <script src="/js/libs/jquery-3.4.1.min.js"></script>
+    <script src="/js/libs/popper.min.js"></script>
+    <script src="/js/libs/bootstrap.min.js"></script>
+
+    <meta charset="utf-8">
+    <title>Menú principal </title>
+    <link rel="icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="/css/index.css">
+    <script src="js/index.js" type="module"></script>
+    <script src="js/libs/axios.min.js"></script>
+    <script src="/js/headerU.js" type="module"></script>
+
+</head>
+
+<body>
+    <div id="header"></div>
+    <script>include("headerU.html", "#header");</script>
+
+    <div class="container">
+
+
+        <div id="fila-noLogin">
+            <div class="row text-center">
+                <div class="col-md">
+                    <div class="rectangulo-orange">
+                        <div class="border-orange">
+                            <h3>Amigos de Orange</h3>
+                        </div>
+                        <div class="border-orange">
+                            <h3>¡Inicia sesión para hacer amigos!</h3>
+                            <a href="login.html">Inicia sesión aqui</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card-head">
+                        <div class="photo-public-colegas">
+                            <h3>¡¡¡No te pierdas las publicaciones de tus colegas!!!</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="rectangulo-orange">
+                        <div class="border-orange">
+                            <h3>¿Categoría?</h3>
+                        </div>
+                        <hr>
+                        <div class="border-orange">
+                            <a class="nav-item dropdown">
+                                <a class="dropdown-toggle btn btn-warning" id="navbarDropdown" role="button"
+                                    data-toggle="dropdown">
+                                    Categorias
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown" id="cat2"></div>
+                            </a>
+                        </div>
+                        <hr>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="fila-Login">
+            <div class="row text-center">
+                <div class="col-md">
+                    <div class="rectangulo-orange">
+                        <div class="border-orange">
+                            <h3>Amigos de Orange</h3>
+                        </div>
+                        <div class="border-orange">
+                            <div class="row">
+                                <div class="col-md">
+                                    <div class="photo-profile-block">
+                                        <img class="photo-image-profile" src="images/P Pedro.jpeg">
+                                    </div>
+                                    <a href="perfilA.html" class="btn btn-warning text-right">
+                                        <h5>Pedrodort</h5>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md">
+                                    <div class="photo-profile-block">
+                                        <img class="photo-image-profile" src="images/P Marta.jpeg">
+                                    </div>
+                                    <a href="perfilB.html" class="btn btn-warning text-center">
+                                        <h5>Martamo</h5>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="rectangulo-orange">
+                        <div class="border-orange">
+                            <h3>¿Categoría?</h3>
+                        </div>
+                        <div class="border-orange">
+                            <hr>
+
+                            <a class="nav-item dropdown">
+                                <a class="dropdown-toggle btn btn-warning" id="navbarDropdown" role="button"
+                                    data-toggle="dropdown">
+                                    Categorias
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown" id="cat"></div>
+                            </a>
+
+
+                            <hr>
+
+                            <form id="category-form">
+                                <p><a id="añadir" class="btn btn-warning" href="añadirCategoria.html">¡¡¡Añadir nueva
+                                        categoria!!!</a></p>
+                            </form>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="rectangulo-orange">
+                        <div class="border-orange">
+                            <h3>¡Estadísticas!</h3>
+                        </div>
+                        <div class="border-orange">
+                            <p><a href="">- Mayor puntuación</a></p>
+                            <p><a href="">- Más comentarios</a></p>
+                            <p><a href="">- Categoría más frecuentes</a></p>
+                            <p><a href="">- Usuarios más seguidos</a></p>
+                            <p><a href="">- Usuarios más puntuados</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr>
+
+        <!--Aqui van las fotos-->
+
+        <div id="errors"></div>
+
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Register form</title>
+    <link rel="icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="/js/utils/include.js"></script>
+    <meta name="viewport" content="width=device-width , initial-scale=1 ,shrink-to-fit=no">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <script src="/js/libs/jquery-3.4.1.min.js"></script>
+    <script src="/js/libs/popper.min.js"></script>
+    <script src="/js/libs/bootstrap.min.js"></script>
+    <script src="js/register.js" type="module"></script>
+    <script  src="js/header.js" type="module"></script>
+    <script src="/js/libs/axios.min.js"></script>
+</head>
+
+<body>
+    <div id="page-header"></div>
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-md">
+                <h2>Register a new user:</h2>
+            </div>
+        </div>
+        <hr>
+        <div id="errors"></div>
+        <form id="register-form">
+            <div class="row">
+                <div class="col-md">
+                    <div class="form-group">
+                        <label for="username-input">First name:</label>
+                        <input type="text" class="form-control" id="username-input" name="firstName"
+                            placeholder="First name">
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="form-group">
+                        <label for="username-input">Last name:</label>
+                        <input type="text" class="form-control" id="username-input" name="lastName"
+                            placeholder="Last name">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md">
+                    <div class="form-group">
+                        <label for="username-input">Email: </label>
+                        <input type="text" class="form-control" id="username-input" name="Email" placeholder="Email">
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="form-group">
+                        <label for="username-input">Telephone: </label>
+                        <input type="text" class="form-control" id="username-input" name="Telephone"
+                            placeholder="Telephone">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md">
+                    <div class="form-group">
+                        <label for="username-input">Username: </label><input type="text" class="form-control"
+                            id="username-input" name="Username" placeholder="Username">
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="form-group">
+                        <label for="password-input">Password: </label>
+                        <input type="password" class="form-control" id="password-input" name="password"
+                            placeholder="Password">
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="form-group">
+                        <label for="password-input">Repeat your password: </label>
+                        <input type="password" class="form-control" id="password-input" name="password2"
+                            placeholder="Password">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-5"></div>
+                <div class="col-md">
+                    <button type="submit" class="btn btn-primary">Register </button>
+                </div>
+            </div>
+            <a href="index.html">Return to the main page </a>
+        </form>
+    </div>
+    <script>include("header.html", "#page-header");</script>
+</body>
+
+</html>

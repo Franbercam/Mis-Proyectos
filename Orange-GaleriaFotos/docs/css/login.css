@@ -1,0 +1,50 @@
+body{
+    padding-top:4.2rem;
+    padding-bottom:4.2rem;
+    background-image: url("/docs/images/fondo.jpg");
+    background-size: cover;
+    backdrop-filter: blur(2px);
+}
+.myform{
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 1rem;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 1.1rem;
+    outline: 0;
+    max-width: 500px;
+     }
+.tx-tfm{
+    text-transform:uppercase;
+}
+.mybtn{
+    border-radius:50px;
+}
+.legal{
+    border-radius:30%;
+    background-color: #fff;
+    width: 20%;
+    height: 20%;
+    margin-left: 1%;
+    margin-top: 7%;
+    text-align: center;
+}
+.cotillear{
+    border-radius:30%;
+    background-color: #fff;
+    width: 19%;
+    height: 80%;
+    margin-left: 79%;
+    margin-top: -6%;
+    text-align: center;
+}
+
+     
+    

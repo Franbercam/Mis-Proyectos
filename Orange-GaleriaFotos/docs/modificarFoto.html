@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="/js/utils/include.js"></script>
+    <meta name="viewport" content="width=device-width , initial-scale=1 ,shrink-to-fit=no">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <script src="/js/libs/jquery-3.4.1.min.js"></script>
+    <script src="/js/libs/popper.min.js"></script>
+    <script src="/js/libs/bootstrap.min.js"></script>
+
+    <meta charset="utf-8">
+    <title>Frabercam</title>
+    <link rel="icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="/css/modificarFoto.css">
+
+</head>
+
+<body>
+    <div id="header"></div>
+    <script>include("headerLogin.html", "#header");</script>
+
+    <div class="container">
+        <div class="row text-center">
+            <div id="errors"></div>
+            <div class="col-md" id="foto">
+
+            </div>
+
+            <div class="col-md">
+
+                <form id="form-photo-upload">
+                    <div class="form-group">
+                        <label for="input-title">Título</label>
+                        <input required type="text" class="form-control" id="input-title" name="title"
+                            placeholder="Añada un título">
+                    </div>
+                    <div class="form-group">
+                        <label for="input-description">Descripción</label>
+                        <input type="text" class="form-control" id="input-description" name="description"
+                            placeholder="Describa lo que esta ocurriendo">
+                    </div>
+                    <div class="form-group">
+                        <label for="input-visibility">Visibilidad</label>
+                        <select class="form-control" id="input-visibility" name="visibility">
+                            <option value="Pública">Pública</option>
+                            <option value="Privada">Privada</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="input-category">Categoría</label>
+                        <select class="form-control" id="input-category" name="category">
+                            <option value="Casual">Casual</option>
+                            <option value="Divertida">Divertida</option>
+                            <option value="Fiesta">Fiesta</option>
+                        </select>
+                    </div>
+                    <div>
+                        <button type="submit" class="btn btn-warning">Guardar</button>
+                    </div>
+                </form>
+
+            </div>
+            <div class="col-md"></div>
+        </div>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+body{
+    padding-top:4.2rem;
+    padding-bottom:4.2rem;
+    background-image: url("/docs/images/loginFondoOpa.png");
+    background-size: cover;
+}
+
+.texto{
+    text-align: center;
+}

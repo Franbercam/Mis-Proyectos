@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+    <meta charset="utf-8">
+    <title>Iniciar sesión</title>
+    <link rel="icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="/css/login.css">
+    <script src="js/login.js" type="module"></script>
+    <script src="/js/libs/axios.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div id="errors"></div>
+
+        <div class="col-md-5 mx-auto">
+            <div class="myform">
+                <div class="logo mb-3">
+                    <div class="col-md-12 text-center">
+                        <h1>Iniciar sesión en Orange</h1>
+                    </div>
+                </div>
+
+
+                <form id="login-form">
+                    <div class="form-group">
+                        <label for="nombreUsuario-input">Nombre de usuario</label>
+                        <input type="text" name="user" class="form-control" id="nombreUsuario-input"
+                            placeholder="Nombre de usuario" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="contraseña-input">Contraseña</label>
+                        <input type="password" name="password" id="contraseña-input" class="form-control"
+                            placeholder="Contraseña" required>
+                    </div>                    
+                    <div class="form-group text-center">
+                        <button id="iniciarSesionBoton" type="submit" class="btn btn-warning">Iniciar Sesión</button>
+                    </div>
+                    <div class="form-group">
+                        <p class="text-center">¿Es la primera vez que usas Orange? </p>
+                        <p><a class="regis" href="register.html" >Registrarse</a></p>
+                    </div>
+                </form>
+
+
+            </div>
+        </div>
+        
+    </div>
+
+</body>
+
+<footer>
+
+    <div class="legal">
+        <p><h5><u>Legal</u></h5></p>
+        <p><a href="palabrasInad.html">Palabras Inapropiadas</a></p>
+    </div>
+
+    <div class="cotillear">
+        <p><h5><u>¡Puedes cotillear las fotos públicas!</u></h5></p>
+        <p><a href="index.html">Click aquí para ir a inicio</a></p>
+    </div>
+
+</footer>
+
+</html>

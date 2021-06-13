@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Photo detail</title>
+    <link rel="icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="/js/utils/include.js"></script>
+    <meta name="viewport" content="width=device-width , initial-scale=1 ,shrink-to-fit=no">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <script src="/js/libs/jquery-3.4.1.min.js"></script>
+    <script src="/js/libs/popper.min.js"></script>
+    <script src="/js/libs/bootstrap.min.js"></script>
+    <script src="js/photo_detail.js" type="module"></script>
+    <script src="js/libs/axios.min.js"></script>
+    <script src="js/header.js" type="module"></script>
+</head>
+
+<body>
+    <div id="page-header"></div>
+    <script>include("header.html", "#page-header");</script>
+
+    <hr>
+
+    <div class="container">
+
+        <div id="errors"></div>
+
+        <div class="row text-center">
+            <div class="col-md-9" id="photo-details-column">
+
+            </div>
+
+            <div class="col-md-3" id="actions-col">
+                <p>
+                    <button id="button-edit" class="btn  btn-primary">Edit this photo </button>
+                    <button id="button-delete" class="btn  btn-danger">Delete this photo </button>
+                </p>
+                <hr>
+                <form>
+                    <div class="form-group">
+                        <label for="select-input">Rate this photo: </label>
+                        <select class="form-control" id="select-input" name="select">
+                            <option value="1">★</option>
+                            <option value="2">★★</option>
+                            <option value="3">★★★</option>
+                            <option value="4">★★★★</option>
+                            <option value="5">★★★★★</option>
+                        </select>
+                        <button type="submit" class="btn  btn-success">Rate </button>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+
+    </div>
+</body>
+
+</html>

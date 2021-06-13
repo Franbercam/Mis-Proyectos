@@ -1,0 +1,31 @@
+body{
+    background-image: url("/docs/images/fondo.jpg");
+    background-size: cover;
+    backdrop-filter: blur(2px);
+}
+.container{
+    margin-top: 5%;
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 1rem;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 1.1rem;
+    outline: 0;
+    max-width: 500px;
+}
+.legal{
+    border-radius:30%;
+    background-color: #fff;
+    width: 20%;
+    height: 20%;
+    margin-left: 1%;
+    margin-top: 2%;
+    text-align: center;
+}

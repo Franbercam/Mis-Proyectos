@@ -1,0 +1,47 @@
+img.photo-image-profile{
+    border-radius: 50%;
+    margin: 15%;
+}
+div.photo-profile-block {
+    position: sticky;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-left: 59%;
+    margin-top: 16%;
+}
+img.photo-image-profile-2{
+    width: 100%;
+    height: auto;
+    margin-left: -2px;
+    margin-top: -20px;
+}
+.container-info{
+    border: 1px solid orange;
+    border-radius: 30px;
+    margin: 10%;
+}
+#yo{
+    width: auto;
+    
+}
+.container-subir-foto{
+    width: 100%;
+    height: 100%;
+    margin-top: -8%;
+}
+#descrDeta{
+    background-color: orange;
+    border-radius: 30px;
+}
+#subaFoto{
+    margin-top: -21%;
+}
+#verFoto{
+    margin-top: -5%;
+}
+#secRow{
+    margin: 2%;
+}
+

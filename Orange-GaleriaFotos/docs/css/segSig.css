@@ -1,0 +1,18 @@
+.listAmis{
+    border: 1px solid orange;
+    border-radius: 30px;
+    margin: 8%;
+}
+div.photo-profile-block {
+    position: sticky;
+    width: 71px;
+    height: 71px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+img.photo-image-profile{
+    width: 100%;
+    height: auto;
+    margin-left: -2px;
+    margin-top: -20px;
+}

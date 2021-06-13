@@ -1,0 +1,17 @@
+.border-orange {
+    border: 1px solid  gray;
+    border-radius: 20px;
+    background-color: white;
+  }
+
+.orange {
+    color: gray;
+}
+#buscador {
+    margin: 5px;
+    border: 1px solid  gray;
+    border-radius: 20px;
+}
+#boton-buscar{
+    color: orange;    
+}

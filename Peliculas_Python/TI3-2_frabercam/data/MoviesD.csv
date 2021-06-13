@@ -1,0 +1,763 @@
+movie_name;genre;year;timeMin;imdb;metascore;votes;us_grossMillions
+Once Upon a Time... in Hollywood;Comedy, Drama;2019;161;77;830;439202;1425
+Parasite;Comedy, Drama, Thriller;2019;132;86;960;367763;5337
+Knives Out;Comedy, Crime, Drama;2019;131;80;820;272176;16536
+1917;Drama, War;2019;119;84;780;278731;15923
+The Ten Commandments;Adventure, Drama;1956;220;78;774;60668;9374
+Little Women;Drama, Romance;2019;135;79;910;92139;1081
+Avengers: Endgame;Action, Adventure, Drama;2019;181;84;780;697863;85837
+Joker;Crime, Drama, Thriller;2019;122;85;590;754563;33545
+The Shawshank Redemption;Drama;1994;142;93;800;2220730;2834
+Jojo Rabbit;Comedy, Drama, War;2019;108;79;580;193100;35
+Ford v Ferrari;Action, Biography, Drama;2019;152;81;810;197710;11762
+The Godfather;Crime, Drama;1972;175;92;1000;1530221;13497
+Inception;Action, Adventure, Sci-Fi;2010;148;88;740;1947364;29258
+Harry Potter and the Sorcerer's Stone;Adventure, Family, Fantasy;2001;152;76;640;604887;31758
+The Perks of Being a Wallflower;Drama, Romance;2012;103;80;670;440495;1774
+Interstellar;Adventure, Drama, Sci-Fi;2014;169;86;740;1398665;18802
+The Dark Knight;Action, Crime, Drama;2008;152;90;840;2196122;53486
+Mad Max: Fury Road;Action, Adventure, Sci-Fi;2015;120;81;900;831569;15406
+Call Me by Your Name;Drama, Romance;2017;132;79;930;185451;181
+Road to Perdition;Crime, Drama, Thriller;2002;117;77;720;237496;10445
+Pulp Fiction;Crime, Drama;1994;154;89;940;1742458;10793
+The Lighthouse;Drama, Fantasy, Horror;2019;109;76;830;92992;43
+Raiders of the Lost Ark;Action, Adventure;1981;115;84;850;848656;24816
+The Lord of the Rings: The Fellowship of the Ring;Action, Adventure, Drama;2001;178;88;920;1586748;31554
+Toy Story 4;Animation, Adventure, Comedy;2019;100;78;840;173358;43404
+Goodfellas;Biography, Crime, Drama;1990;146;87;900;966567;4684
+Blade Runner 2049;Action, Drama, Mystery;2017;164;80;810;423894;9205
+Green Book;Biography, Comedy, Drama;2018;130;82;690;311218;8508
+Avengers: Infinity War;Action, Adventure, Sci-Fi;2018;149;85;680;763162;67882
+The Social Network;Biography, Drama;2010;120;77;950;594667;9696
+The Dark Knight Rises;Action, Adventure;2012;164;84;780;1452944;44814
+Inglourious Basterds;Adventure, Drama, War;2009;153;83;690;1198697;12054
+Thor: Ragnarok;Action, Adventure, Comedy;2017;130;79;740;543360;31506
+Fight Club;Drama;1999;139;88;660;1770485;3703
+The Wolf of Wall Street;Biography, Crime, Drama;2013;180;82;750;1105999;1169
+Titanic;Drama, Romance;1997;194;78;750;1002806;65933
+Aliens;Action, Adventure, Sci-Fi;1986;137;83;840;627331;8516
+Casino Royale;Action, Adventure, Thriller;2006;144;80;800;561157;16745
+Forrest Gump;Drama, Romance;1994;142;88;820;1713406;33025
+Gone Girl;Drama, Mystery, Thriller;2014;149;81;790;810207;16777
+The Last Picture Show;Drama, Romance;1971;118;80;930;39888;2913
+The Matrix;Action, Sci-Fi;1999;136;87;730;1596077;17148
+Goldfinger;Action, Adventure, Thriller;1964;110;77;870;165646;5108
+Saving Private Ryan;Drama, War;1998;169;86;910;1176586;21654
+Guardians of the Galaxy;Action, Adventure, Comedy;2014;121;80;760;1006170;33318
+The Hangover;Comedy;2009;100;77;730;694821;27732
+The Departed;Crime, Drama, Thriller;2006;151;85;850;1133976;13238
+Prisoners;Crime, Drama, Mystery;2013;153;81;700;563234;610
+Se7en;Crime, Drama, Mystery;1995;127;86;650;1367611;10013
+The Prestige;Drama, Mystery, Sci-Fi;2006;130;85;660;1125902;5309
+Schindler's List;Biography, Drama, History;1993;195;89;940;1156877;969
+Skyfall;Action, Adventure, Thriller;2012;143;77;810;612358;30436
+Taxi Driver;Crime, Drama;1976;114;83;940;684185;2826
+Howl's Moving Castle;Animation, Adventure, Family;2004;119;82;800;303971;471
+Deadpool;Action, Adventure, Comedy;2016;108;80;650;866405;36307
+Good Will Hunting;Drama, Romance;1997;126;83;700;815807;13843
+Guardians of the Galaxy Vol. 2;Action, Adventure, Comedy;2017;136;76;670;533023;38981
+The Shining;Drama, Horror;1980;146;84;660;845684;4402
+Shutter Island;Mystery, Thriller;2010;138;81;630;1067631;12801
+Gladiator;Action, Adventure, Drama;2000;155;85;670;1279865;18771
+The Silence of the Lambs;Crime, Drama, Thriller;1991;118;86;850;1203989;13074
+Bohemian Rhapsody;Biography, Drama, Music;2018;134;80;490;418126;21643
+American Beauty;Drama;1999;122;83;840;1031370;1301
+Léon: The Professional;Action, Crime, Drama;1994;110;85;640;983997;195
+Star Wars: Episode IV - A New Hope;Action, Adventure, Fantasy;1977;121;86;900;1182819;32274
+The Good, the Bad and the Ugly;Western;1966;178;88;900;657247;61
+Harry Potter and the Deathly Hallows: Part 2;Adventure, Drama, Fantasy;2011;130;81;850;726805;38101
+Mission: Impossible - Fallout;Action, Adventure, Thriller;2018;147;77;860;268384;22016
+Pirates of the Caribbean: The Curse of the Black Pearl;Action, Adventure, Fantasy;2003;143;80;630;989741;30541
+The Lord of the Rings: The Return of the King;Adventure, Drama, Fantasy;2003;201;89;940;1574216;37785
+12 Monkeys;Mystery, Sci-Fi, Thriller;1995;129;80;740;559413;5714
+The Avengers;Action, Adventure, Sci-Fi;2012;143;80;690;1225562;62328
+Minority Report;Action, Crime, Mystery;2002;145;76;800;488636;13207
+Baby Driver;Action, Crime, Drama;2017;113;76;860;405595;10783
+Spider-Man: Into the Spider-Verse;Animation, Action, Adventure;2018;117;84;870;309476;19024
+Back to the Future;Adventure, Comedy, Sci-Fi;1985;116;85;870;992613;21061
+Spirited Away;Animation, Adventure, Family;2001;125;86;960;603116;1006
+Dunkirk;Action, Drama, History;2017;106;79;940;510933;18837
+The Godfather: Part II;Crime, Drama;1974;202;90;900;1071305;573
+Django Unchained;Drama, Western;2012;165;84;810;1284681;16281
+No Country for Old Men;Crime, Drama, Thriller;2007;122;81;910;809218;7428
+Harry Potter and the Goblet of Fire;Adventure, Family, Fantasy;2005;157;77;810;517016;29001
+Requiem for a Dream;Drama;2000;102;83;680;733660;364
+Alien;Horror, Sci-Fi;1979;117;84;890;751532;789
+Avatar;Action, Adventure, Fantasy;2009;162;78;830;1086160;76051
+28 Days Later...;Drama, Horror, Sci-Fi;2002;113;76;730;362695;4506
+Ex Machina;Drama, Mystery, Sci-Fi;2014;108;77;780;449775;2544
+The Green Mile;Crime, Drama, Fantasy;1999;189;86;610;1083580;1368
+Jurassic Park;Action, Adventure, Sci-Fi;1993;127;81;680;823456;40245
+Apocalypse Now;Drama, Mystery, War;1979;147;84;940;577604;8347
+Snatch;Comedy, Crime;2000;102;83;550;752185;3033
+The Big Short;Biography, Comedy, Drama;2015;130;78;810;336258;7026
+Iron Man;Action, Adventure, Sci-Fi;2008;126;79;790;905563;31841
+Moana;Animation, Adventure, Comedy;2016;107;76;810;248933;24876
+Deadpool 2;Action, Adventure, Comedy;2018;119;77;660;444245;32459
+Lion;Biography, Drama;2016;118;80;690;198560;5174
+Blade Runner;Action, Sci-Fi, Thriller;1982;117;81;840;663144;3287
+There Will Be Blood;Drama;2007;158;82;930;489536;4022
+Rogue One: A Star Wars Story;Action, Adventure, Sci-Fi;2016;133;78;650;525294;53218
+The Lion King;Animation, Adventure, Drama;1994;88;85;880;897224;42278
+Her;Drama, Romance, Sci-Fi;2013;126;80;900;507649;2557
+Coco;Animation, Adventure, Family;2017;105;84;810;331590;20973
+Zodiac;Crime, Drama, Mystery;2007;157;77;780;425733;3308
+Room;Drama, Thriller;2015;118;81;860;343982;1468
+Harry Potter and the Prisoner of Azkaban;Adventure, Family, Fantasy;2004;142;79;820;519010;24936
+Whiplash;Drama, Music;2014;106;85;880;668648;1309
+Three Billboards Outside Ebbing, Missouri;Comedy, Crime, Drama;2017;115;82;880;392608;5451
+The Wizard of Oz;Adventure, Family, Fantasy;1939;102;80;1000;362346;208
+Brokeback Mountain;Drama, Romance;2005;134;77;870;311540;8304
+12 Angry Men;Drama;1957;96;89;960;648966;436
+Get Out;Horror, Mystery, Thriller;2017;104;77;850;453774;17604
+Zootopia;Animation, Adventure, Comedy;2016;108;80;780;410100;34127
+Eternal Sunshine of the Spotless Mind;Drama, Romance, Sci-Fi;2004;108;83;890;868540;344
+Memento;Mystery, Thriller;2000;113;84;800;1076188;2554
+Captain America: Civil War;Action, Adventure, Sci-Fi;2016;147;78;750;628285;40808
+Pride & Prejudice;Drama, Romance;2005;129;78;820;241434;3841
+Batman Begins;Action, Adventure;2005;140;82;700;1253332;20685
+Ferris Bueller's Day Off;Comedy;1986;103;78;610;304402;7014
+The Goonies;Adventure, Comedy, Family;1985;114;78;620;229870;615
+Ratatouille;Animation, Adventure, Comedy;2007;111;80;960;611908;20645
+Star Wars: Episode VII - The Force Awakens;Action, Adventure, Sci-Fi;2015;138;79;800;832622;93666
+Oldboy;Action, Drama, Mystery;2003;120;84;770;487810;71
+The Princess Bride;Adventure, Family, Fantasy;1987;98;81;770;376145;3086
+The Usual Suspects;Crime, Mystery, Thriller;1995;106;85;770;949340;2334
+Jaws;Adventure, Drama, Thriller;1975;124;80;870;526149;2600
+V for Vendetta;Action, Drama, Sci-Fi;2005;132;82;620;990418;7051
+Scarface;Crime, Drama;1983;170;83;650;703235;456
+The Revenant;Action, Adventure, Biography;2015;156;80;760;667355;18364
+The Intouchables;Biography, Comedy, Drama;2011;112;85;570;719900;1318
+A Star Is Born;Drama, Music, Romance;2018;136;77;880;304154;21529
+Argo;Biography, Drama, Thriller;2012;120;77;860;554887;13603
+The Grand Budapest Hotel;Adventure, Comedy, Crime;2014;99;81;880;670468;591
+Superbad;Comedy;2007;113;76;760;503085;12146
+Braveheart;Biography, Drama, History;1995;178;83;680;927085;756
+The Lord of the Rings: The Two Towers;Adventure, Drama, Fantasy;2002;179;87;870;1421687;34255
+The Big Lebowski;Comedy, Crime, Sport;1998;117;81;710;696113;175
+Star Trek;Action, Adventure, Sci-Fi;2009;127;79;820;567029;25773
+The Pianist;Biography, Drama, Music;2002;150;85;850;688312;3257
+Airplane!;Comedy;1980;88;77;780;200844;834
+Hacksaw Ridge;Biography, Drama, History;2016;139;81;710;402664;6721
+Logan;Action, Drama, Sci-Fi;2017;137;81;770;609272;22628
+Dazed and Confused;Comedy;1993;102;76;780;156383;799
+One Flew Over the Cuckoo's Nest;Drama;1975;133;87;830;873577;1120
+The Hateful Eight;Crime, Drama, Mystery;2015;168;78;680;483789;5412
+Kingsman: The Secret Service;Action, Adventure, Comedy;2014;129;77;600;569432;12826
+Watchmen;Action, Drama, Mystery;2009;162;76;560;482620;10751
+The Breakfast Club;Comedy, Drama;1985;97;79;620;333860;4588
+Heat;Crime, Drama, Thriller;1995;170;82;760;549572;6744
+Wonder;Drama, Family;2017;113;80;660;127122;13242
+Training Day;Crime, Drama, Thriller;2001;122;77;690;372535;7663
+The Hobbit: An Unexpected Journey;Adventure, Family, Fantasy;2012;169;78;580;737982;3030
+Life Is Beautiful;Comedy, Drama, Romance;1997;116;86;590;590060;576
+Catch Me If You Can;Biography, Crime, Drama;2002;141;81;750;774704;16462
+Mystic River;Crime, Drama, Mystery;2003;138;79;840;403805;9014
+Inside Out;Animation, Adventure, Comedy;2015;95;82;940;576125;35646
+Mulholland Drive;Drama, Mystery, Thriller;2001;147;80;840;304474;722
+The Peanut Butter Falcon;Adventure, Comedy, Drama;2019;97;76;700;38609;1312
+The Sound of Music;Biography, Drama, Family;1965;172;80;630;194508;16321
+La La Land;Comedy, Drama, Music;2016;128;80;940;472376;1511
+Sicario;Action, Crime, Drama;2015;121;76;820;350233;4689
+Lethal Weapon;Action, Crime, Thriller;1987;109;76;680;228344;6521
+Ocean's Eleven;Crime, Thriller;2001;116;77;740;493893;18342
+The Truman Show;Comedy, Drama, Sci-Fi;1998;103;81;900;885440;12562
+Captain America: The Winter Soldier;Action, Adventure, Sci-Fi;2014;136;77;700;704944;25977
+Tangled;Animation, Adventure, Comedy;2010;100;77;710;387782;20082
+Indiana Jones and the Last Crusade;Action, Adventure;1989;127;82;650;663621;19717
+Zombieland;Adventure, Comedy, Horror;2009;88;76;730;501035;7559
+American History X;Drama;1998;119;85;620;995875;672
+Harry Potter and the Deathly Hallows: Part 1;Adventure, Family, Fantasy;2010;146;77;650;450975;29598
+The Girl with the Dragon Tattoo;Crime, Drama, Mystery;2011;158;78;710;403953;10252
+The Notebook;Drama, Romance;2004;123;78;530;497143;810
+Harry Potter and the Half-Blood Prince;Action, Adventure, Family;2009;153;76;780;445368;30196
+Drive;Crime, Drama;2011;100;78;780;547181;3506
+Star Wars: Episode V - The Empire Strikes Back;Action, Adventure, Fantasy;1980;124;87;820;1110816;29048
+Cast Away;Adventure, Drama, Romance;2000;143;78;730;498125;23363
+Kill Bill: Vol. 1;Action, Crime, Thriller;2003;111;81;690;956991;701
+Arrival;Drama, Mystery, Sci-Fi;2016;116;79;810;557966;10055
+Reservoir Dogs;Crime, Drama, Thriller;1992;99;83;790;877411;283
+Pan's Labyrinth;Drama, Fantasy, War;2006;118;82;980;596016;3763
+Donnie Darko;Drama, Mystery, Sci-Fi;2001;113;80;880;718738;148
+The Favourite;Biography, Comedy, Drama;2018;119;76;910;154330;3437
+About Time;Comedy, Drama, Fantasy;2013;123;78;550;282547;1532
+Seven Samurai;Action, Adventure, Drama;1954;207;86;980;300373;27
+Hidden Figures;Biography, Drama, History;2016;127;78;740;186200;16961
+Star Wars: Episode VI - Return of the Jedi;Action, Adventure, Fantasy;1983;131;83;580;910720;30913
+Love Actually;Comedy, Drama, Romance;2003;135;76;550;410191;597
+The Terminator;Action, Sci-Fi;1984;107;80;840;769799;384
+The Florida Project;Drama;2017;111;76;920;83241;59
+City of God;Crime, Drama;2002;130;86;790;673741;756
+American Psycho;Comedy, Crime, Drama;2000;101;76;640;459644;1507
+Your Name.;Animation, Drama, Fantasy;2016;106;84;790;164296;502
+Into the Wild;Adventure, Biography, Drama;2007;148;81;730;547446;1835
+Birdman or (The Unexpected Virtue of Ignorance);Comedy, Drama;2014;119;77;870;552658;4234
+Terminator 2: Judgment Day;Action, Sci-Fi;1991;137;85;750;957170;20484
+True Romance;Crime, Drama, Romance;1993;119;79;590;197924;1228
+Ben-Hur;Adventure, Drama, History;1959;212;81;900;210600;747
+300;Action, Drama;2006;117;76;520;713493;21061
+What We Do in the Shadows;Comedy, Horror;2014;86;77;760;142290;333
+The Godfather: Part III;Crime, Drama;1990;162;76;600;341476;6667
+Psycho;Horror, Mystery, Thriller;1960;109;85;970;570514;320
+Silver Linings Playbook;Comedy, Drama, Romance;2012;122;77;810;641446;13209
+Capernaum;Drama;2018;126;84;750;43328;166
+2001: A Space Odyssey;Adventure, Sci-Fi;1968;149;83;840;573583;5695
+Sherlock Holmes;Action, Adventure, Crime;2009;128;76;570;566133;20903
+Toy Story;Animation, Adventure, Comedy;1995;81;83;950;846292;1918
+The Handmaiden;Drama, Romance, Thriller;2016;145;81;840;96274;201
+Captain Fantastic;Comedy, Drama;2016;118;79;720;174426;588
+A Beautiful Mind;Biography, Drama;2001;135;82;720;810586;17074
+Warrior;Drama, Sport;2011;140;82;710;419650;1366
+Slumdog Millionaire;Drama, Romance;2008;120;80;850;773700;14132
+The Curious Case of Benjamin Button;Drama, Fantasy, Romance;2008;166;78;700;563353;12751
+Lost in Translation;Drama, Romance;2003;102;77;890;393179;4459
+Edge of Tomorrow;Action, Adventure, Sci-Fi;2014;113;79;710;574140;10021
+Sin City;Crime, Thriller;2005;124;80;740;728007;741
+Full Metal Jacket;Drama, War;1987;116;83;760;643459;4636
+Fiddler on the Roof;Drama, Family, Musical;1971;181;80;670;37150;805
+Incredibles 2;Animation, Action, Adventure;2018;118;76;800;230453;60858
+The Theory of Everything;Biography, Drama, Romance;2014;123;77;720;381457;3589
+The Sixth Sense;Drama, Mystery, Thriller;1999;107;81;640;878851;29351
+12 Years a Slave;Biography, Drama, History;2013;134;81;960;609650;5667
+Die Hard;Action, Thriller;1988;132;82;720;754876;8301
+Spotlight;Biography, Crime, Drama;2015;129;81;930;393539;4506
+Shaun of the Dead;Comedy, Horror;2004;99;79;760;493463;1354
+Black Swan;Drama, Thriller;2010;108;80;790;675111;10695
+Once Upon a Time in the West;Western;1968;165;85;800;287408;532
+Fargo;Crime, Drama, Thriller;1996;98;81;850;588478;2461
+Indiana Jones and the Temple of Doom;Action, Adventure;1984;118;76;570;427761;17987
+The King's Speech;Biography, Drama, History;2010;118;80;880;618018;1388
+Stardust;Adventure, Family, Fantasy;2007;127;76;660;246137;3863
+Apocalypto;Action, Adventure, Drama;2006;139;78;680;279755;5087
+Princess Mononoke;Animation, Adventure, Fantasy;1997;134;84;760;317978;238
+Groundhog Day;Comedy, Fantasy, Romance;1993;101;80;720;560650;7091
+Nightcrawler;Crime, Drama, Thriller;2014;117;79;760;435049;3238
+Lock, Stock and Two Smoking Barrels;Comedy, Crime;1998;107;82;660;514455;39
+The Martian;Adventure, Drama, Sci-Fi;2015;144;80;800;723067;22843
+Memories of Murder;Action, Crime, Drama;2003;132;81;820;119516;1
+The Farewell;Comedy, Drama;2019;100;76;890;36287;1688
+Mulan;Animation, Adventure, Family;1998;88;76;710;238119;12062
+The Hunt;Drama;2012;115;83;770;260609;69
+Stand by Me;Adventure, Drama;1986;89;81;750;348126;5229
+Blue Is the Warmest Colour;Drama, Romance;2013;180;77;880;131633;22
+Mary Poppins;Comedy, Family, Fantasy;1964;139;78;880;151145;10227
+Rear Window;Mystery, Thriller;1954;112;84;1000;421671;3676
+Moneyball;Biography, Drama, Sport;2011;133;76;870;344549;7561
+Up;Animation, Adventure, Comedy;2009;96;82;880;892712;2930
+Platoon;Drama, War;1986;120;81;920;366692;13853
+Monsters, Inc.;Animation, Adventure, Comedy;2001;92;80;790;779988;28992
+Casablanca;Drama, Romance, War;1942;102;85;1000;499207;102
+The Imitation Game;Biography, Drama, Thriller;2014;114;80;730;651903;9113
+The Incredibles;Animation, Action, Adventure;2004;115;80;900;632082;26144
+Gangs of New York;Crime, Drama;2002;167;75;720;389182;7781
+Hot Fuzz;Action, Comedy, Mystery;2007;121;78;810;444952;2364
+The Help;Drama;2011;146;81;620;409012;16971
+The Lives of Others;Drama, Mystery, Thriller;2006;137;84;890;341301;1129
+Amélie;Comedy, Romance;2001;122;83;690;678890;3323
+Casino;Crime, Drama;1995;178;82;730;440087;4244
+Gran Torino;Drama;2008;116;81;720;695622;1481
+WALL·E;Animation, Adventure, Family;2008;98;84;950;955180;22381
+Crash;Crime, Drama, Thriller;2004;112;78;660;410418;5458
+Boogie Nights;Drama;1997;155;79;850;228948;264
+As Good as It Gets;Comedy, Drama, Romance;1997;139;77;670;264906;14848
+Lawrence of Arabia;Adventure, Biography, Drama;1962;228;83;1000;255171;4482
+Mad Max 2: The Road Warrior;Action, Adventure, Sci-Fi;1981;96;76;770;160516;1247
+Rush;Biography, Drama, Sport;2013;123;81;740;413399;2695
+True Grit;Drama, Western;2010;110;76;800;297297;17124
+The Pursuit of Happyness;Biography, Drama;2006;117;80;640;426360;16357
+Aladdin;Animation, Adventure, Comedy;1992;90;80;860;353170;21735
+Unforgiven;Drama, Western;1992;130;82;850;358542;10116
+Atonement;Drama, Mystery, Romance;2007;123;78;850;238259;5093
+X-Men: Days of Future Past;Action, Adventure, Sci-Fi;2014;132;80;750;642128;23392
+Children of Men;Drama, Thriller;2006;109;79;840;445697;3555
+Dr. Strangelove;Comedy;1964;95;84;970;432649;28
+A Few Good Men;Drama, Thriller;1992;138;77;620;224254;14134
+Black Hawk Down;Drama, History, War;2001;144;77;740;352477;10864
+3 Idiots;Comedy, Drama;2009;170;84;670;321220;653
+Finding Nemo;Animation, Adventure, Comedy;2003;100;81;900;911110;38084
+The Fifth Element;Action, Adventure, Sci-Fi;1997;126;77;520;418482;6354
+The Thing;Horror, Mystery, Sci-Fi;1982;109;81;570;351113;1378
+Trainspotting;Drama;1996;93;81;830;613377;165
+Ghostbusters;Action, Comedy, Fantasy;1984;105;78;710;340587;23863
+Midnight in Paris;Comedy, Fantasy, Romance;2011;94;77;810;371057;5682
+The Exorcist;Horror;1973;122;80;810;348408;23291
+Predator;Action, Adventure, Sci-Fi;1987;107;78;450;358473;5974
+Magnolia;Drama;1999;188;80;770;279880;2246
+The Deer Hunter;Drama, War;1978;183;81;860;297681;4898
+Home Alone;Comedy, Family;1990;103;76;630;443825;28576
+L.A. Confidential;Crime, Drama, Mystery;1997;138;82;900;512493;6462
+Ponyo;Animation, Adventure, Comedy;2008;101;77;860;114575;1509
+Gone with the Wind;Drama, History, Romance;1939;238;81;970;276300;19868
+X-Men: First Class;Action, Adventure, Sci-Fi;2011;131;77;650;629230;14641
+Hell or High Water;Action, Crime, Drama;2016;102;76;880;191331;2686
+Gravity;Drama, Sci-Fi, Thriller;2013;91;77;960;742415;27409
+Incendies;Drama, Mystery, War;2010;131;83;800;135599;686
+The Hobbit: The Desolation of Smaug;Adventure, Fantasy;2013;161;78;660;583391;25837
+The Sandlot;Comedy, Drama, Family;1993;101;78;550;75117;3242
+Hunt for the Wilderpeople;Adventure, Comedy, Drama;2016;101;79;810;98968;52
+Dallas Buyers Club;Biography, Drama;2013;117;80;810;421216;273
+The Last Samurai;Action, Drama, War;2003;154;77;550;384534;11111
+Big Hero 6;Animation, Action, Adventure;2014;102;78;740;392771;22253
+Dead Poets Society;Comedy, Drama;1989;128;81;790;398250;9586
+E.T. the Extra-Terrestrial;Family, Sci-Fi;1982;115;78;910;354444;43511
+Lolita;Crime, Drama, Romance;1962;153;76;790;88083;925
+Remember the Titans;Biography, Drama, Sport;2000;113;78;480;190686;11565
+Amadeus;Biography, Drama, History;1984;160;83;880;353709;5197
+The Bourne Identity;Action, Mystery, Thriller;2002;119;79;680;491096;12166
+Annie Hall;Comedy, Romance;1977;93;80;920;244336;392
+Downfall;Biography, Drama, History;2004;156;82;820;318452;551
+Misery;Drama, Thriller;1990;107;78;750;174289;6128
+Big Fish;Adventure, Drama, Fantasy;2003;125;80;580;402160;6626
+Shrek;Animation, Adventure, Comedy;2001;90;78;840;589800;26767
+Blue Velvet;Drama, Mystery, Thriller;1986;120;78;760;171553;855
+Tombstone;Action, Biography, Drama;1993;130;78;500;120117;5651
+Blood Diamond;Adventure, Drama, Thriller;2006;143;80;640;480633;5737
+The Impossible;Drama, History, Thriller;2012;114;76;730;188070;1902
+Rocky;Drama, Sport;1976;120;81;700;496146;11724
+Toy Story 3;Animation, Adventure, Comedy;2010;103;83;920;725637;4150
+Edward Scissorhands;Drama, Fantasy, Romance;1990;105;79;740;430382;5636
+Wind River;Crime, Drama, Mystery;2017;107;77;730;187334;338
+Spartacus;Adventure, Biography, Drama;1960;197;79;870;119136;300
+Almost Famous;Adventure, Comedy, Drama;2000;122;79;900;242761;3253
+The Conversation;Drama, Mystery, Thriller;1974;113;78;850;92058;442
+The Fugitive;Action, Crime, Drama;1993;130;78;870;256056;18388
+Kill Bill: Vol. 2;Action, Crime, Thriller;2004;137;80;830;654088;6621
+Manchester by the Sea;Drama;2016;137;78;960;231099;477
+My Neighbor Totoro;Animation, Family, Fantasy;1988;86;82;860;264849;111
+Little Miss Sunshine;Comedy, Drama;2006;101;78;800;424447;5989
+The Apartment;Comedy, Drama, Romance;1960;125;83;940;154083;186
+The Little Mermaid;Animation, Family, Fantasy;1989;83;76;880;226590;11154
+The Others;Horror, Mystery, Thriller;2001;104;76;740;325016;9652
+The Game;Action, Drama, Mystery;1997;129;78;610;329360;4832
+The Fault in Our Stars;Drama, Romance;2014;126;77;690;329892;12487
+The Secret in Their Eyes;Drama, Mystery, Romance;2009;129;82;800;182524;639
+Chinatown;Drama, Mystery, Thriller;1974;130;82;920;279602;292
+O Brother, Where Art Thou?;Adventure, Comedy, Crime;2000;107;77;690;274076;4551
+Moonrise Kingdom;Comedy, Drama, Romance;2012;94;78;840;304893;4551
+Blazing Saddles;Comedy, Western;1974;93;77;730;120708;1195
+Million Dollar Baby;Drama, Sport;2004;132;81;860;611086;10049
+The Butterfly Effect;Drama, Sci-Fi, Thriller;2004;113;76;300;437124;5794
+Raging Bull;Biography, Drama, Sport;1980;129;82;890;306281;2338
+Monty Python and the Holy Grail;Adventure, Comedy, Fantasy;1975;91;82;930;482664;123
+Escape from Alcatraz;Biography, Crime, Drama;1979;112;76;760;111684;430
+Before Sunrise;Drama, Romance;1995;101;81;770;253528;554
+Rain Man;Drama;1988;133;80;650;457528;1788
+Inside Man;Crime, Drama, Mystery;2006;129;76;760;324550;8851
+District 9;Action, Sci-Fi, Thriller;2009;112;79;810;622376;11565
+Moon;Drama, Mystery, Sci-Fi;2009;97;79;670;323794;501
+Beauty and the Beast;Animation, Family, Fantasy;1991;84;80;950;404985;21897
+American Gangster;Biography, Crime, Drama;2007;157;78;760;378635;13016
+Saw;Horror, Mystery, Thriller;2004;103;76;460;365987;560
+Citizen Kane;Drama, Mystery;1941;119;83;1000;380537;159
+Blow;Biography, Crime, Drama;2001;124;76;520;232518;5299
+Donnie Brasco;Biography, Crime, Drama;1997;127;77;760;265434;4191
+The Naked Gun;Comedy, Crime;1988;85;76;760;143880;7876
+The Machinist;Drama, Thriller;2004;101;77;610;343911;108
+Butch Cassidy and the Sundance Kid;Biography, Crime, Drama;1969;110;80;660;195740;10231
+The Blind Side;Biography, Drama, Sport;2009;129;76;530;279588;25596
+Vertigo;Mystery, Romance, Thriller;1958;128;83;1000;341174;32
+Scent of a Woman;Drama;1992;156;80;590;245559;639
+Serenity;Action, Adventure, Sci-Fi;2005;119;78;740;276954;2551
+Office Space;Comedy;1999;89;77;680;234301;1082
+Wild Tales;Comedy, Drama, Thriller;2014;122;81;770;163632;311
+The Untouchables;Crime, Drama, Thriller;1987;119;79;790;267027;7627
+What's Eating Gilbert Grape;Drama;1993;118;78;730;205816;917
+Y Tu Mamá También;Drama;2001;106;76;880;111233;1362
+Midnight Cowboy;Drama;1969;113;78;790;96093;4479
+Man on Fire;Action, Crime, Drama;2004;146;77;470;318641;7791
+Back to the Future Part II;Adventure, Comedy, Sci-Fi;1989;108;78;570;453113;1185
+Some Like It Hot;Comedy, Music, Romance;1959;121;82;980;232498;250
+The Graduate;Comedy, Drama, Romance;1967;106;80;830;245937;10495
+Willy Wonka & the Chocolate Factory;Family, Fantasy, Musical;1971;100;78;670;169725;40
+Life of Pi;Adventure, Drama, Fantasy;2012;127;79;790;559364;12499
+Gifted;Drama;2017;101;76;600;91159;248
+Manhattan;Comedy, Drama, Romance;1979;96;79;830;126614;457
+Who Framed Roger Rabbit;Animation, Adventure, Comedy;1988;104;77;830;175277;15645
+Monty Python's Life of Brian;Comedy;1979;94;81;770;351816;2005
+Searching;Drama, Mystery, Thriller;2018;102;76;710;122608;2602
+500 Days of Summer;Comedy, Drama, Romance;2009;95;77;760;456814;3239
+Gattaca;Drama, Sci-Fi, Thriller;1997;106;78;640;270960;1234
+The Blues Brothers;Adventure, Comedy, Crime;1980;133;79;600;174469;5723
+Dances with Wolves;Adventure, Drama, Western;1990;181;80;720;230530;18421
+Wreck-It Ralph;Animation, Adventure, Comedy;2012;101;77;720;364385;18942
+Kick-Ass;Action, Adventure, Comedy;2010;117;76;660;512270;4807
+First Blood;Action, Adventure;1982;93;77;610;216777;4721
+The Great Escape;Adventure, Drama, History;1963;172;82;870;214622;121
+Empire of the Sun;Action, Drama, History;1987;153;77;620;110475;2224
+The Abyss;Adventure, Drama, Mystery;1989;171;76;620;156981;5446
+Interview with the Vampire: The Vampire Chronicles;Drama, Horror;1994;123;76;590;284628;10526
+Captain Phillips;Biography, Crime, Drama;2013;134;78;820;404263;1071
+Star Trek Into Darkness;Action, Adventure, Sci-Fi;2013;132;77;720;454488;22878
+Toy Story 2;Animation, Adventure, Comedy;1999;92;79;880;504528;24585
+Primal Fear;Crime, Drama, Mystery;1996;129;77;470;174405;5612
+The Hurt Locker;Drama, Thriller, War;2008;131;76;950;407403;1702
+Taken;Action, Thriller;2008;90;78;510;551766;1450
+Match Point;Drama, Romance, Thriller;2005;124;76;720;199128;2309
+The Last of the Mohicans;Action, Adventure, Drama;1992;112;77;760;142392;7551
+Boyz n the Hood;Crime, Drama;1991;112;77;760;118355;575
+Apollo 13;Adventure, Drama, History;1995;140;76;770;256668;17384
+The Count of Monte Cristo;Action, Adventure, Drama;2002;131;78;610;124747;5423
+The Boy in the Striped Pajamas;Drama, War;2008;94;78;550;181226;903
+Walk the Line;Biography, Drama, Music;2005;136;78;720;225518;11952
+Mother;Crime, Drama, Thriller;2009;129;78;790;44852;55
+The Bourne Ultimatum;Action, Mystery, Thriller;2007;115;80;850;591663;22747
+I Saw the Devil;Action, Crime, Drama;2010;144;78;670;101841;13
+Sense and Sensibility;Drama, Romance;1995;136;76;840;97207;4318
+127 Hours;Biography, Drama;2010;94;76;820;336556;1834
+Mr. Nobody;Drama, Fantasy, Romance;2009;141;78;630;207121;0
+Isle of Dogs;Animation, Adventure, Comedy;2018;101;79;820;126278;3202
+Papillon;Biography, Crime, Drama;1973;151;80;580;117200;5327
+Seven Pounds;Drama;2008;123;76;360;278361;6995
+The Warriors;Action, Crime, Thriller;1979;92;76;650;89585;2249
+The Fighter;Biography, Drama, Sport;2010;116;78;790;328356;9362
+In Bruges;Comedy, Crime, Drama;2008;107;79;670;377304;776
+Cinema Paradiso;Drama;1988;155;85;800;215415;1199
+The Royal Tenenbaums;Comedy, Drama;2001;110;76;760;256019;5236
+The Hunt for Red October;Action, Adventure, Thriller;1990;135;76;580;171246;12201
+Lost Highway;Mystery, Thriller;1997;134;76;520;124454;38
+The Reader;Drama, Romance;2008;124;76;580;224286;3419
+Young Frankenstein;Comedy;1974;106;80;800;137987;863
+The Crow;Action, Drama, Fantasy;1994;102;76;710;160907;5069
+Brazil;Drama, Sci-Fi;1985;132;79;880;181253;993
+The Jungle Book;Animation, Adventure, Family;1967;78;76;650;159043;14184
+The Thin Red Line;Drama, War;1998;170;76;780;166307;364
+End of Watch;Action, Crime, Drama;2012;109;76;680;220302;410
+Shoplifters;Crime, Drama;2018;121;80;930;50089;331
+Close Encounters of the Third Kind;Drama, Sci-Fi;1977;138;76;900;175805;13209
+Boyhood;Drama;2014;165;79;1000;325909;2538
+Gone Baby Gone;Crime, Drama, Mystery;2007;114;76;720;241826;203
+Bridge of Spies;Drama, History, Thriller;2015;142;76;810;275281;7231
+The Girl with the Dragon Tattoo;Crime, Drama, Mystery;2009;152;78;760;203578;101
+Traffic;Crime, Drama, Thriller;2000;147;76;860;190657;12412
+How to Train Your Dragon;Animation, Action, Adventure;2010;98;81;750;639545;21758
+The Bourne Supremacy;Action, Mystery, Thriller;2004;108;77;730;420678;17624
+Halloween;Horror, Thriller;1978;91;78;810;218027;470
+Das Boot;Adventure, Drama, Thriller;1981;149;83;860;221149;1149
+Philadelphia;Drama;1993;125;77;660;215065;7732
+Creed;Drama, Sport;2015;133;76;820;237177;10977
+Fried Green Tomatoes;Drama;1991;130;77;640;64004;8242
+Dawn of the Planet of the Apes;Action, Adventure, Drama;2014;130;76;790;401624;20855
+The Raid: Redemption;Action, Thriller;2011;101;76;730;183075;411
+Rise of the Planet of the Apes;Action, Drama, Sci-Fi;2011;105;76;680;485154;17676
+Sleepers;Crime, Drama, Thriller;1996;147;76;490;181027;491
+The Wind Rises;Animation, Biography, Drama;2013;126;78;830;66128;521
+Robin Hood;Animation, Adventure, Comedy;1973;83;76;570;110113;3206
+The Best Offer;Crime, Drama, Mystery;2013;131;78;490;102139;9
+Singin' in the Rain;Comedy, Musical, Romance;1952;103;83;990;207882;882
+A Separation;Drama;2011;123;83;950;208970;71
+The Night of the Hunter;Crime, Drama, Film-Noir;1955;92;80;990;78196;65
+Fear and Loathing in Las Vegas;Adventure, Comedy, Drama;1998;118;76;410;250537;1068
+North by Northwest;Adventure, Mystery, Thriller;1959;136;83;980;285036;1328
+Billy Elliot;Drama, Music;2000;110;77;740;121259;220
+Planet of the Apes;Adventure, Sci-Fi;1968;112;80;790;160509;334
+Straight Outta Compton;Biography, Drama, History;2015;147;79;720;172586;1612
+Nausicaä of the Valley of the Wind;Animation, Adventure, Fantasy;1984;117;81;860;138497;5
+My Cousin Vinny;Comedy, Crime;1992;120;76;680;101306;5293
+Fantastic Mr. Fox;Animation, Adventure, Comedy;2009;87;79;830;187163;210
+For a Few Dollars More;Western;1965;132;83;740;219652;150
+The Magnificent Seven;Action, Adventure, Western;1960;128;77;740;84206;491
+Die Hard with a Vengeance;Action, Adventure, Thriller;1995;128;76;580;352268;10001
+The Skin I Live In;Drama, Horror, Thriller;2011;120;76;700;131140;319
+In the Mood for Love;Drama, Romance;2000;98;81;850;114618;273
+The Birds;Drama, Horror, Mystery;1963;119;77;880;162956;114
+The Sting;Comedy, Crime, Drama;1973;129;83;830;231159;1596
+Serpico;Biography, Crime, Drama;1973;130;77;870;103090;298
+Do the Right Thing;Comedy, Drama;1989;120;79;920;80171;2755
+Sling Blade;Drama;1996;135;80;840;84552;2448
+3:10 to Yuma;Action, Adventure, Crime;2007;122;77;760;279081;5361
+Carlito's Way;Crime, Drama, Thriller;1993;144;79;650;192571;3695
+Star Trek II: The Wrath of Khan;Action, Adventure, Sci-Fi;1982;113;77;670;108942;7891
+Before Sunset;Drama, Romance;2004;80;80;900;221371;582
+Enemy at the Gates;Drama, History, War;2001;131;76;530;233877;514
+Dirty Harry;Action, Crime, Thriller;1971;102;77;900;137745;359
+Crouching Tiger, Hidden Dragon;Action, Adventure, Fantasy;2000;120;78;940;246517;12808
+The Dirty Dozen;Action, Adventure, War;1967;150;78;730;64364;453
+Metropolis;Drama, Sci-Fi;1927;153;83;980;152296;124
+Eastern Promises;Action, Crime, Drama;2007;100;76;820;220646;1711
+Gandhi;Biography, Drama, History;1982;191;80;790;212504;5277
+A Fistful of Dollars;Action, Drama, Western;1964;99;80;650;187278;145
+The Boondock Saints;Action, Crime, Thriller;1999;108;78;440;222253;3
+Dark City;Mystery, Sci-Fi, Thriller;1998;100;76;660;182287;1438
+The Fly;Drama, Horror, Sci-Fi;1986;96;75;790;152085;4046
+Awakenings;Biography, Drama;1990;121;78;740;117680;521
+Snow White and the Seven Dwarfs;Animation, Family, Fantasy;1937;83;76;950;173473;18493
+Dog Day Afternoon;Biography, Crime, Drama;1975;125;80;860;226328;500
+Changeling;Biography, Crime, Drama;2008;141;77;630;229310;3574
+Malcolm X;Biography, Drama, History;1992;202;77;720;79543;4817
+This Is Spinal Tap;Comedy, Music;1984;82;79;920;124375;19
+When Harry Met Sally...;Comedy, Drama, Romance;1989;95;76;760;186130;9282
+Coraline;Animation, Drama, Family;2009;100;77;800;186488;7529
+Cool Hand Luke;Crime, Drama;1967;127;81;920;155191;1622
+Dogville;Crime, Drama;2003;178;80;600;132136;153
+The Illusionist;Drama, Fantasy, History;2006;110;76;680;346016;3987
+The Last Emperor;Biography, Drama, History;1987;163;77;760;89420;4398
+Being John Malkovich;Comedy, Drama, Fantasy;1999;113;77;900;297961;2286
+Paddington 2;Adventure, Comedy, Family;2017;103;78;880;55117;4044
+The Color Purple;Drama;1985;154;78;780;74466;9847
+Paris, Texas;Drama;1984;145;81;780;81904;218
+A Bronx Tale;Crime, Drama, Romance;1993;121;78;800;122248;1727
+In the Name of the Father;Biography, Drama;1993;133;81;840;148692;2501
+Lord of War;Action, Crime, Drama;2005;122;76;620;286020;2415
+The Lego Movie;Animation, Action, Adventure;2014;100;77;830;315215;25776
+Despicable Me;Animation, Comedy, Family;2010;95;76;720;483192;25151
+Amores Perros;Drama, Thriller;2000;154;81;830;214816;538
+I Am Sam;Drama;2001;132;77;280;139452;4031
+Cold War;Drama, History, Music;2018;89;76;900;42731;457
+Midnight Express;Biography, Crime, Drama;1978;121;76;590;69699;350
+21 Grams;Crime, Drama, Thriller;2003;124;77;700;218493;1625
+Rebecca;Drama, Mystery, Romance;1940;130;81;860;116259;436
+Blood In, Blood Out;Crime, Drama;1993;180;80;470;27720;45
+Kung Fu Hustle;Action, Comedy, Fantasy;2004;99;77;780;121929;1711
+Winter Sleep;Drama;2014;196;82;880;41312;17
+Ran;Action, Drama, War;1985;162;82;960;105155;352
+The Artist;Comedy, Drama, Romance;2011;100;79;890;223648;4467
+After Hours;Comedy, Crime, Drama;1985;97;77;900;54315;106
+Adaptation.;Comedy, Drama;2002;115;77;830;170718;2225
+Lucky Number Slevin;Crime, Drama, Mystery;2006;110;77;530;294073;2249
+The Name of the Rose;Crime, Drama, Mystery;1986;130;77;540;97739;715
+Before Midnight;Drama, Romance;2013;109;79;940;131479;811
+When Marnie Was There;Animation, Drama, Family;2014;103;77;720;27697;77
+Hotel Rwanda;Biography, Drama, History;2004;121;81;790;324186;2353
+50/50;Comedy, Drama, Romance;2011;100;76;720;308431;3501
+Charade;Comedy, Mystery, Romance;1963;113;79;830;63896;1347
+Beasts of No Nation;Drama, War;2015;137;77;790;68843;8
+The Raid 2;Action, Crime, Thriller;2014;150;80;710;109313;263
+Dawn of the Dead;Horror, Thriller;1978;127;79;710;107383;51
+JFK;Drama, History, Thriller;1991;189;80;720;135729;7041
+Ghost in the Shell;Animation, Action, Crime;1995;83;80;760;122221;52
+Loving Vincent;Animation, Biography, Crime;2017;94;78;620;45705;674
+Doctor Zhivago;Drama, Romance, War;1965;197;80;690;66975;11172
+The Great Beauty;Drama;2013;141;78;860;76618;285
+Sing Street;Comedy, Drama, Music;2016;106;79;790;80254;324
+The Nightmare Before Christmas;Animation, Family, Fantasy;1993;76;80;820;280775;7508
+Kramer vs. Kramer;Drama;1979;105;78;770;125810;10626
+Glory;Biography, Drama, History;1989;122;78;780;116363;2683
+Only the Brave;Action, Biography, Drama;2017;134;76;720;52375;1834
+Enter the Dragon;Action, Crime, Drama;1973;102;77;830;92467;250
+The Wrestler;Drama, Sport;2008;109;79;800;283282;2624
+Let the Right One In;Drama, Horror, Romance;2008;114;79;820;200179;212
+Flipped;Comedy, Drama, Romance;2010;90;77;450;78025;175
+Planes, Trains & Automobiles;Comedy, Drama;1987;93;76;720;116797;4953
+The French Connection;Action, Crime, Drama;1971;104;77;940;104553;1563
+Rashomon;Crime, Drama, Mystery;1950;88;82;980;143683;1
+The Bridge on the River Kwai;Adventure, Drama, War;1957;161;81;870;194468;4491
+The Wild Bunch;Action, Adventure, Western;1969;135;79;970;74696;1206
+The Bridges of Madison County;Drama, Romance;1995;135;76;660;69040;7152
+Night of the Living Dead;Horror;1968;96;79;890;110710;9
+A Streetcar Named Desire;Drama;1951;122;80;970;95179;80
+Chungking Express;Comedy, Crime, Drama;1994;102;81;770;57416;6
+Me and Earl and the Dying Girl;Comedy, Drama;2015;105;77;740;118074;674
+A Little Princess;Drama, Family, Fantasy;1995;97;77;830;30804;1002
+The Straight Story;Biography, Drama;1999;112;80;860;77975;62
+Dial M for Murder;Crime, Thriller;1954;105;82;750;148563;1
+Modern Times;Comedy, Drama, Family;1936;87;85;960;204796;16
+The Secret World of Arrietty;Animation, Adventure, Family;2010;94;76;800;73890;192
+The Fall;Adventure, Drama, Fantasy;2006;117;79;640;104344;228
+How to Train Your Dragon 2;Animation, Action, Adventure;2014;102;78;760;293072;1770
+Hero;Action, Adventure, History;2002;107;79;850;170119;5371
+All the President's Men;Biography, Drama, History;1976;138;80;800;97417;706
+October Sky;Biography, Drama, Family;1999;108;78;710;78408;3248
+On the Waterfront;Crime, Drama, Thriller;1954;108;81;910;134959;96
+Cinderella Man;Biography, Drama, History;2005;144;80;690;171130;6165
+The Insider;Biography, Drama, Thriller;1999;157;78;840;154570;2897
+Gully Boy;Drama, Musical;2019;153;82;650;26127;557
+Clerks;Comedy;1994;92;77;700;207021;315
+La Dolce Vita;Comedy, Drama;1960;174;80;950;62565;1952
+Kal ho naa ho;Comedy, Drama, Romance;2003;186;80;540;60251;179
+Synecdoche, New York;Comedy, Drama;2008;124;76;670;77063;308
+Ray;Biography, Drama, Music;2004;152;77;730;133244;7533
+The King of Comedy;Comedy, Crime, Drama;1982;109;78;730;80220;25
+Lady Vengeance;Crime, Drama, Thriller;2005;115;76;750;68189;21
+Rushmore;Comedy, Drama;1998;93;77;860;162908;1711
+Miller's Crossing;Crime, Drama, Thriller;1990;115;78;660;121910;508
+My Fair Lady;Drama, Family, Musical;1964;170;78;950;83159;720
+Falling Down;Crime, Drama, Thriller;1993;113;76;560;162645;409
+Ordinary People;Drama;1980;124;77;870;44513;548
+All About Eve;Drama;1950;138;82;980;114802;1
+National Lampoon's Christmas Vacation;Comedy;1989;97;76;490;146872;7132
+The Iron Giant;Animation, Action, Adventure;1999;86;80;850;164862;2316
+The Outlaw Josey Wales;Western;1976;135;79;690;62687;318
+Ed Wood;Biography, Comedy, Drama;1994;127;78;700;161169;589
+A Man for All Seasons;Biography, Drama, History;1966;120;77;720;29698;2835
+Dancer in the Dark;Crime, Drama, Musical;2000;140;80;610;97987;418
+Dangerous Liaisons;Drama, Romance;1988;119;76;740;62066;347
+Finding Neverland;Biography, Drama, Family;2004;106;77;670;194453;5168
+The Last King of Scotland;Biography, Drama, History;2006;123;77;740;170489;1761
+Short Term 12;Drama;2013;96;80;820;77435;101
+Double Indemnity;Crime, Drama, Film-Noir;1944;107;83;950;135653;572
+Guess Who's Coming to Dinner;Comedy, Drama;1967;108;78;630;37142;567
+The Third Man;Film-Noir, Mystery, Thriller;1949;93;81;970;151839;45
+This Is England;Crime, Drama;2006;101;77;860;112834;33
+The Remains of the Day;Drama, Romance;1993;134;78;840;61761;2295
+The Tale of The Princess Kaguya;Animation, Adventure, Drama;2013;137;80;890;33395;151
+Naked;Comedy, Drama;1993;132;78;840;32182;177
+Glengarry Glen Ross;Crime, Drama, Mystery;1992;100;77;800;91877;1073
+Paper Moon;Comedy, Drama;1973;102;80;770;39991;3093
+Kubo and the Two Strings;Animation, Action, Adventure;2016;101;78;840;112362;4802
+Mississippi Burning;Crime, Drama, History;1988;128;78;650;83005;346
+Three Colors: Blue;Drama, Music, Mystery;1993;94;79;850;83177;132
+Letters from Iwo Jima;Action, Adventure, Drama;2006;141;79;890;150059;1376
+Blood Simple;Crime, Drama, Thriller;1984;99;76;810;83177;215
+Wings of Desire;Drama, Fantasy, Romance;1987;128;80;790;61172;333
+Mommy;Drama;2014;139;81;740;46635;349
+Cabaret;Drama, Musical;1972;124;78;800;46064;4277
+My Left Foot;Biography, Drama;1989;103;79;970;64350;1474
+In the Heat of the Night;Crime, Drama, Mystery;1967;110;79;750;63928;2438
+The Longest Day;Action, Drama, History;1962;178;78;750;50619;391
+Sympathy for Mr. Vengeance;Action, Drama, Thriller;2002;129;76;560;59382;5
+The Right Stuff;Adventure, Biography, Drama;1983;193;78;910;54113;215
+The Muppet Movie;Adventure, Comedy, Family;1979;95;76;740;31074;7666
+Evil Dead II;Comedy, Horror;1987;84;78;690;142120;592
+All That Jazz;Drama, Music, Musical;1979;123;79;720;26115;3782
+Frost/Nixon;Biography, Drama, History;2008;122;77;800;99573;1859
+Shane;Drama, Western;1953;118;76;800;35280;200
+The Motorcycle Diaries;Adventure, Biography, Drama;2004;126;78;750;93949;1676
+High Noon;Drama, Thriller, Western;1952;85;79;890;93887;945
+Fantasia;Animation, Family, Fantasy;1940;125;78;960;85120;7641
+The Maltese Falcon;Film-Noir, Mystery;1941;100;80;960;144652;211
+Strangers on a Train;Crime, Film-Noir, Thriller;1951;101;80;880;118517;763
+Pink Floyd: The Wall;Animation, Drama, Fantasy;1982;95;80;470;73265;2224
+Breaking the Waves;Drama;1996;159;79;760;59863;404
+Three Colors: Red;Drama, Mystery, Romance;1994;99;81;1000;84622;404
+Fanny and Alexander;Drama;1982;188;81;1000;54390;497
+Lagaan: Once Upon a Time in India;Adventure, Drama, Musical;2001;224;81;840;99084;7
+Detachment;Drama;2011;98;77;520;72952;7
+The Double Life of Véronique;Drama, Fantasy, Music;1991;98;78;860;39000;20
+All About My Mother;Drama;1999;101;78;870;85012;826
+The Treasure of the Sierra Madre;Adventure, Drama, Western;1948;126;82;980;108658;501
+I, Daniel Blake;Drama;2016;100;79;780;48976;26
+Barton Fink;Comedy, Drama, Thriller;1991;116;77;690;108499;615
+Run Lola Run;Crime, Drama, Thriller;1998;80;76;770;183525;727
+Delicatessen;Comedy, Crime;1991;99;76;660;77833;179
+Amour;Drama, Romance;2012;127;79;930;89023;674
+Kelly's Heroes;Adventure, Comedy, War;1970;144;76;500;43335;138
+The Life of David Gale;Crime, Drama, Thriller;2003;130;76;310;105003;1959
+What Ever Happened to Baby Jane?;Drama, Horror, Thriller;1962;134;81;750;47584;405
+The Killing Fields;Biography, Drama, History;1984;141;78;760;49448;347
+Being There;Comedy, Drama;1979;130;80;830;62881;3018
+Nebraska;Adventure, Comedy, Drama;2013;115;77;860;108888;1765
+La Vie En Rose;Biography, Drama, Music;2007;140;76;660;80055;103
+Paprika;Animation, Drama, Fantasy;2006;90;77;810;65743;88
+Hedwig and the Angry Inch;Comedy, Drama, Music;2001;95;77;850;30841;303
+City Lights;Comedy, Drama, Romance;1931;87;85;990;157586;2
+Dead Man;Adventure, Drama, Fantasy;1995;121;76;620;87011;104
+Mustang;Drama;2015;97;76;830;33406;85
+Happiness;Comedy, Drama;1998;134;77;810;64386;281
+Black Book;Drama, Thriller, War;2006;145;77;710;70381;44
+Giant;Drama, Western;1956;201;76;840;32529;350
+Patton;Biography, Drama, War;1970;172;79;910;90992;617
+Talk to Her;Drama, Mystery, Romance;2002;112;79;860;100927;928
+King Kong;Adventure, Horror, Sci-Fi;1933;100;79;900;76229;100
+Short Cuts;Comedy, Drama;1993;188;77;790;40890;611
+The Producers;Comedy, Music;1967;88;76;960;48017;11
+My Name Is Khan;Drama;2010;165;80;500;94598;402
+Notorious;Drama, Film-Noir, Romance;1946;102;79;1000;88405;1046
+Withnail & I;Comedy, Drama;1987;107;77;840;38279;154
+25th Hour;Drama;2002;135;76;670;165835;1306
+Anatomy of a Murder;Crime, Drama, Mystery;1959;161;80;950;56546;119
+From Here to Eternity;Drama, Romance, War;1953;118;76;850;41190;305
+Once;Drama, Music, Romance;2007;86;78;880;107707;944
+Touch of Evil;Crime, Drama, Film-Noir;1958;95;80;990;95381;224
+A Very Long Engagement;Drama, Mystery, Romance;2004;133;76;760;69533;617
+Once Upon a Time in Anatolia;Crime, Drama;2011;157;79;820;37985;14
+The Salesman;Drama, Thriller;2016;124;78;850;46259;24
+The White Ribbon;Drama, History, Mystery;2009;144;78;820;65653;222
+Spring, Summer, Fall, Winter... and Spring;Drama, Romance;2003;103;80;850;74054;238
+Loveless;Drama;2017;127;76;860;26685;57
+All Quiet on the Western Front;Drama, War;1930;152;80;910;55350;327
+The African Queen;Adventure, Drama, Romance;1951;105;77;910;68944;54
+It Happened One Night;Comedy, Romance;1934;105;81;870;88976;436
+Waking Life;Animation, Drama, Fantasy;2001;99;78;820;58940;289
+Volver;Comedy, Drama;2006;121;76;840;91461;129
+Leviathan;Crime, Drama;2014;140;76;920;46343;109
+Infernal Affairs;Crime, Drama, Mystery;2002;101;80;750;114803;17
+The Secret of NIMH;Animation, Adventure, Drama;1982;82;76;760;34771;1014
+Thank You for Smoking;Comedy, Drama;2005;92;76;710;209512;2479
+A Prophet;Crime, Drama;2009;155;79;900;90546;208
+Good Bye Lenin!;Comedy, Drama, Romance;2003;121;77;680;133379;406
+The Grapes of Wrath;Drama, History;1940;129;80;960;83481;6
+The Diving Bell and the Butterfly;Biography, Drama;2007;112;80;920;100747;599
+The Station Agent;Comedy, Drama;2003;89;76;810;65754;574
+The Little Prince;Animation, Adventure, Drama;2015;108;77;700;53361;134
+Song of the Sea;Animation, Adventure, Drama;2014;93;81;850;47523;86
+Land of Mine;Drama, History, War;2015;100;78;750;31606;44
+A Man Called Ove;Comedy, Drama, Romance;2015;116;77;700;43056;336
+Dead Man's Shoes;Crime, Drama, Thriller;2004;90;76;520;47817;1
+Down by Law;Comedy, Crime, Drama;1986;107;78;750;45724;144
+The Verdict;Drama;1982;129;77;770;33989;540
+Crimes and Misdemeanors;Comedy, Drama;1989;104;79;770;52495;1825
+South Park: Bigger, Longer & Uncut;Animation, Comedy, Fantasy;1999;81;77;730;187755;5201
+Elite Squad;Action, Crime, Drama;2007;115;81;330;95001;1
+On Golden Pond;Drama;1981;109;76;680;26419;11929
+The Innocents;Horror;1961;100;78;880;25161;262
+The Legend of 1900;Drama, Music, Romance;1998;169;81;580;56021;26
+The Hurricane;Biography, Drama, Sport;1999;146;76;740;88815;5067
+Mysterious Skin;Drama;2004;105;76;730;64079;7
+The Adventures of Robin Hood;Action, Adventure, Romance;1938;102;79;970;45453;398
+The Lunchbox;Drama, Romance;2013;104;78;760;45071;423
+Three Colors: White;Comedy, Drama, Romance;1994;92;77;880;59415;146
+Hannah and Her Sisters;Comedy, Drama;1986;107;79;900;64313;4008
+3-Iron;Crime, Drama, Romance;2004;88;80;720;47178;24
+The Day of the Jackal;Crime, Drama, Thriller;1973;143;78;800;35743;1606
+The Broken Circle Breakdown;Drama, Music, Romance;2012;111;78;700;37891;18
+The Best Years of Our Lives;Drama, Romance, War;1946;170;80;930;55244;2365
+Wait Until Dark;Horror, Thriller;1967;108;78;810;26491;1755
+The Conformist;Drama;1970;113;80;1000;25047;54
+The Experiment;Drama, Thriller;2001;120;77;600;89003;14
+Once Were Warriors;Crime, Drama;1994;102;79;770;30377;22
+The Sea Inside;Biography, Drama;2004;126;80;740;75112;209
+Night on Earth;Comedy, Drama;1991;129;78;680;52703;202
+The Discreet Charm of the Bourgeoisie;Comedy;1972;102;79;930;35810;2
+About Elly;Drama, Mystery, Thriller;2009;119;80;870;41547;11
+Black Cat, White Cat;Comedy, Crime, Romance;1998;127;81;730;48922;35
+Cat on a Hot Tin Roof;Drama;1958;108;80;800;42787;1757
+The Celebration;Drama;1998;105;80;820;75402;165
+Ace in the Hole;Drama, Film-Noir;1951;111;81;720;28668;397
+A Christmas Story;Comedy, Family;1983;94;80;770;126923;2061
+Mr. Smith Goes to Washington;Comedy, Drama;1939;129;81;730;102320;96
+Control;Biography, Drama, Music;2007;122;77;780;59691;87
+Lilya 4-Ever;Crime, Drama;2002;109;78;820;41158;18
+Secrets & Lies;Comedy, Drama;1996;136;80;910;35245;1342
+The Return;Drama;2003;110;80;820;40273;5
+4 Months, 3 Weeks and 2 Days;Drama;2007;113;79;970;54331;119
+Love Me If You Dare;Comedy, Drama, Romance;2003;93;76;450;65479;55
+Philomena;Biography, Comedy, Drama;2013;98;76;770;91352;3771
+Fearless;Action, Biography, Drama;2006;104;76;700;71260;2463
+The Battle of Algiers;Drama, War;1966;121;81;960;49591;6
+Shine;Biography, Drama, Music;1996;105;77;870;49863;3581
+The World's Fastest Indian;Biography, Drama, Sport;2005;127;78;680;50450;513
+The Odd Couple;Comedy;1968;105;77;860;30259;4453
+Persepolis;Animation, Biography, Drama;2007;96;80;900;85346;445
+Il Postino;Biography, Comedy, Drama;1994;108;77;810;32002;2185
+No Man's Land;Comedy, Drama, War;2001;98;79;840;43289;106
+A Hard Day's Night;Comedy, Music, Musical;1964;87;76;960;38422;1378
+The Purple Rose of Cairo;Comedy, Fantasy, Romance;1985;82;77;750;45049;1063
+The Past;Drama, Mystery;2013;130;78;850;42956;133
+Cowboy Bebop: The Movie;Animation, Action, Crime;2001;115;79;610;41071;10
+Chak de! India;Drama, Family, Sport;2007;153;82;680;69983;111
+Nine Queens;Crime, Drama, Thriller;2000;114;79;800;47736;122
+In a Better World;Drama, Romance;2010;118;76;650;37473;101
+The Chorus;Drama, Music;2004;97;79;560;55000;364
+Departures;Drama, Music;2008;130;81;680;46684;15
+In America;Drama;2002;105;77;760;39672;1554
+Veer-Zaara;Drama, Family, Musical;2004;192;78;670;46781;292
+After the Wedding;Drama;2006;120;77;780;30679;41
+Evil;Drama;2003;113;78;610;34615;2
+The Triplets of Belleville;Animation, Comedy, Drama;2003;80;78;910;49310;70
+Elite Squad: The Enemy Within;Action, Crime, Drama;2010;115;80;710;77061;1
+Tangerines;Drama, War;2013;87;82;730;35712;14
+Tae Guk Gi: The Brotherhood of War;Action, Drama, War;2004;140;81;640;36758;111
+The Visitor;Drama;2007;104;76;790;40811;942
+Adam's Apples;Comedy, Crime, Drama;2005;94;78;510;43632;0
+The Magdalene Sisters;Drama;2002;114;77;830;25251;489
+The Secret of Kells;Animation, Adventure, Family;2009;75;76;810;29734;69
+Tokyo Godfathers;Animation, Adventure, Comedy;2003;92;78;730;28642;13
+Central Station;Drama;1998;110;80;800;34347;56
+Miracle on 34th Street;Comedy, Drama, Family;1947;96;79;880;38649;265
+The Edge of Heaven;Drama;2007;122;78;850;29752;74
+Le Dîner de Cons;Comedy;1998;80;77;730;35785;407
+Joyeux Noel;Drama, History, Music;2005;116;77;700;26757;105
+Vampire Hunter D: Bloodlust;Animation, Action, Fantasy;2000;103;77;620;27972;15
+The Muppet Christmas Carol;Comedy, Drama, Family;1992;85;77;640;45835;2728
+The Shop Around the Corner;Comedy, Drama, Romance;1940;99;81;960;26038;2
+Boy A;Drama;2007;102;76;750;36185;11
