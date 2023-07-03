@@ -1,4 +1,4 @@
-# Repositorio Mis-Proyecto
+# Mis-Proyecto
 
 Este repositorio de GitHub contiene una recopilación de los proyectos desarrollados por Francisco de Asís Bermúdez Campuzano durante su carrera universitaria en la Escuela Técnica Superior de Ingeniería Informática (ETSI Informática) de la Universidad de Sevilla.
 
